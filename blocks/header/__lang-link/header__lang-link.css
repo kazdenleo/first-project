@@ -1,0 +1,8 @@
+.header__lang-link {
+	color: #fff;
+}
+
+.header__lang-link:visited {
+	color: #fff;
+	text-decoration: underline;
+}
