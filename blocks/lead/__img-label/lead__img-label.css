@@ -1,0 +1,20 @@
+.lead__img-label {
+	padding-top: 8px;
+	font-size: 10px;
+	line-height: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+	.lead__img-label {
+		margin-left: 24px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.lead__img-label {
+		margin-left: 16px;
+	}
+}

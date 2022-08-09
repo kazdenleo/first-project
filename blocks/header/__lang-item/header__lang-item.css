@@ -1,0 +1,19 @@
+.header__lang-item {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 1.5;
+	padding: 18px 18px 6px 0;
+}
+
+.header__lang-item:last-of-type {
+	padding-right: 0;
+}
+
+@media screen and (max-width: 320px) {
+	.header__lang-item {
+		font-size: 18px;
+		line-height: 20px;
+		padding: 16px 18px 6px 0;
+	}
+}
